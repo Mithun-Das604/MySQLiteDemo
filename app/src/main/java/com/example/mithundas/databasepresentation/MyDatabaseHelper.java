@@ -8,7 +8,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.widget.Toast;
 
 public class MyDatabaseHelper extends SQLiteOpenHelper {
-    
+    //lklklk
 
     private static final String DATABASE_NAME="Student.db";
     private static final String TABLE_NAME="student_details";
